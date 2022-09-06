@@ -1,0 +1,1 @@
+/home/wolu/lab/domain_tag_cloud/test/words.png
